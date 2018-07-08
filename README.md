@@ -1,2 +1,2 @@
-# traffic-sign-recognition
-Traffic Sign Recognition using Deep Learning
+# Traffic Sign Recognition using Deep Learning
+### This project aims to study and perform a comparative analysis of 3 different deep learning models, implemented on the TensorFlow and Keras frameworks using the US benchmarked dataset LISA , to develop a Traffic Sign Recognition (TSR) system for autonomous vehicles using Deep Learning. An effective method of Contrast-limited Adaptive Histogram Equalization (CLACHE) is employed in pre-processing phase for illumination invariant feature selection. The project was implemented on NVIDIA Tesla K40 GPU processor. The research is performed on the benchmarked US traffic sign Dataset: [LISA](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html).
